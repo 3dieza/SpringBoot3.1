@@ -1,10 +1,10 @@
-package ru.nizamov.springcourse.Project2Boot.dao;
+package ru.nizamov.springcourse.project2Boot.dao;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
-import ru.nizamov.springcourse.Project2Boot.model.User;
+import ru.nizamov.springcourse.project2Boot.model.User;
 
 
 import java.util.List;

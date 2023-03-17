@@ -1,6 +1,6 @@
-package ru.nizamov.springcourse.Project2Boot.dao;
+package ru.nizamov.springcourse.project2Boot.dao;
 
-import ru.nizamov.springcourse.Project2Boot.model.User;
+import ru.nizamov.springcourse.project2Boot.model.User;
 import java.util.List;
 public interface UserDao {
     List<User> index();

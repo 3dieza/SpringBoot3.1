@@ -1,4 +1,4 @@
-package ru.nizamov.springcourse.Project2Boot;
+package ru.nizamov.springcourse.project2Boot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

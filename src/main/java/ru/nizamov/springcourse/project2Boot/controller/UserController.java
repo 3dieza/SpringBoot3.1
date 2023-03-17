@@ -1,12 +1,12 @@
-package ru.nizamov.springcourse.Project2Boot.Controller;
+package ru.nizamov.springcourse.project2Boot.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import ru.nizamov.springcourse.Project2Boot.Service.UserService;
-import ru.nizamov.springcourse.Project2Boot.model.User;
+import ru.nizamov.springcourse.project2Boot.service.UserService;
+import ru.nizamov.springcourse.project2Boot.model.User;
 
 @Controller
 @RequestMapping("/users")

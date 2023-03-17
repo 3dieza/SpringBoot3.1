@@ -1,11 +1,11 @@
-package ru.nizamov.springcourse.Project2Boot.Service;
+package ru.nizamov.springcourse.project2Boot.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.nizamov.springcourse.Project2Boot.dao.UserDao;
-import ru.nizamov.springcourse.Project2Boot.model.User;
+import ru.nizamov.springcourse.project2Boot.dao.UserDao;
+import ru.nizamov.springcourse.project2Boot.model.User;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ru.nizamov.springcourse.Project2Boot;
+package ru.nizamov.springcourse.project2Boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

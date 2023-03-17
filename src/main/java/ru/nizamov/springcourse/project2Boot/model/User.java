@@ -1,4 +1,4 @@
-package ru.nizamov.springcourse.Project2Boot.model;
+package ru.nizamov.springcourse.project2Boot.model;
 
 
 

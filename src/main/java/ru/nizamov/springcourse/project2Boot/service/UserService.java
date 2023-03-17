@@ -1,6 +1,6 @@
-package ru.nizamov.springcourse.Project2Boot.Service;
+package ru.nizamov.springcourse.project2Boot.service;
 
-import ru.nizamov.springcourse.Project2Boot.model.User;
+import ru.nizamov.springcourse.project2Boot.model.User;
 
 import java.util.List;
 
